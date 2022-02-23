@@ -2,7 +2,7 @@
 
 int main (void)
 {    
-    int myPhoneNumber = 88822234;
+    int myPhoneNumber = 22222234;
     printf("My Phone Number is %d\n", myPhoneNumber);
 
     double MyHeight = 1.75;
