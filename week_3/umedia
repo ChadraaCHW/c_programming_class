@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>List</title>
+</head>
+<body>
+    <ol type="I">
+        <li>Red</li>
+        <li>Blue</li>
+        <li>Yellow</li>
+        <li>Green</li>
+    </ol>
+
+    <ul style="list-style-type: decimal-leading-zero;">
+        <li>Talh</li>
+        <li>Ondog</li>
+        <li>Davs</li>
+        <li>Budaa</li>
+        <li>Toms</li>
+    </ul>
+    
+    <dl>
+        <dt>hunsnii nogoo</dt>
+        <dd>toms</dd>
+        <dd>Baitsaa</dd>
+        <dd>Luuvan</dd>
+        <dt>Huvtsas</dt>
+        <dd>Omd</dd>
+        <dd>tsamts</dd>
+        <dd>gutal</dd>
+    </dl>
+</body>
+</html>
